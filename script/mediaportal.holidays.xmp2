@@ -1357,7 +1357,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{af3c3591-5716-4300-8d0e-9e7d6eb58aee}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{786ae39e-ffb7-46f8-8586-b24e10b4069d}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
