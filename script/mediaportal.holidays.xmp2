@@ -338,6 +338,69 @@
               <ZipFileName>Installer{CopyFile}\{ecf23433-f81e-4f73-87b2-aab136a6d292}-ScienceFiction-3.jpg</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\ScienceFiction\ScienceFiction-3.jpg</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\holidays\AlienDay\Alien Day-1.jpg</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{97ebd716-cf30-4c82-82af-7f1152798a4a}-Alien Day-1.jpg</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\AlienDay\Alien Day-1.jpg</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\holidays\AlienDay\Alien Day-2.jpg</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{bdca1c55-3599-4bbd-a0c4-f55bd305a6e1}-Alien Day-2.jpg</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\AlienDay\Alien Day-2.jpg</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\holidays\AlienDay\Alien Day-3.jpg</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{4ae3e57e-5d9b-48af-a723-5c50f142df3c}-Alien Day-3.jpg</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\AlienDay\Alien Day-3.jpg</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\holidays\ChineseNewYear\ChineseNewYear-1.jpg</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{9edcc5df-3f96-423a-949e-2501d5a3476a}-ChineseNewYear-1.jpg</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\ChineseNewYear\ChineseNewYear-1.jpg</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\holidays\ChineseNewYear\ChineseNewYear-2.jpg</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{370aef4c-af9c-408f-9ec5-ea2c346d27da}-ChineseNewYear-2.jpg</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\ChineseNewYear\ChineseNewYear-2.jpg</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\holidays\ChineseNewYear\ChineseNewYear-3.jpg</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{38d9b05f-55c0-4950-b3fb-d2f9aaa78761}-ChineseNewYear-3.jpg</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\ChineseNewYear\ChineseNewYear-3.jpg</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\holidays\CosmonauticsDay\CosmonauticsDay-01.jpg</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{d6b717f3-da2e-42b8-a9dc-1dcaf45c7ac7}-CosmonauticsDay-01.jpg</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\CosmonauticsDay\CosmonauticsDay-01.jpg</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\holidays\CosmonauticsDay\CosmonauticsDay-02.jpg</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{4068c9e7-0cb6-4bf9-b557-56cede96ee64}-CosmonauticsDay-02.jpg</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\CosmonauticsDay\CosmonauticsDay-02.jpg</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\holidays\CosmonauticsDay\CosmonauticsDay-03.jpg</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{8e1aa6b8-36b3-4fb2-a357-381af3e0d23e}-CosmonauticsDay-03.jpg</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\CosmonauticsDay\CosmonauticsDay-03.jpg</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -486,6 +549,27 @@
               <LocalFileName>..\Logos\Holidays\ScienceFiction.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{6fbcfdab-c23f-4b23-b115-38179714350b}-ScienceFiction.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\ScienceFiction.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Logos\Holidays\AlienDay.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{fca3f3d4-db50-46fb-b3ef-0e3fb9bb9c62}-AlienDay.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\AlienDay.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Logos\Holidays\ChineseNewYear.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{3cf5dbef-10ae-4dc6-be5c-30e47d4d7624}-ChineseNewYear.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\ChineseNewYear.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Logos\Holidays\CosmonauticsDay.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{b09772a9-630a-47bd-b92b-1204f699726c}-CosmonauticsDay.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\CosmonauticsDay.png</DestinationFilename>
             </FileItem>
           </Items>
         </Files>
@@ -657,7 +741,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>3</Revision>
+      <Revision>5</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Holidays images for Medaportal skins
 
@@ -665,7 +749,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
     <VersionDescription>New Holidays</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.holidays/master/build/mediaportal.holidays.mpe1</OnlineLocation>
-    <ReleaseDate>2018-03-14T13:46:50</ReleaseDate>
+    <ReleaseDate>2019-02-06T13:46:50</ReleaseDate>
     <Tags>mediaportal, holidays</Tags>
     <Location>..\build\mediaportal.holidays.mpe1</Location>
     <Params>
@@ -1034,6 +1118,69 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\holidays\AlienDay\Alien Day-1.jpg</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{97ebd716-cf30-4c82-82af-7f1152798a4a}-Alien Day-1.jpg</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\AlienDay\Alien Day-1.jpg</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\holidays\AlienDay\Alien Day-2.jpg</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{bdca1c55-3599-4bbd-a0c4-f55bd305a6e1}-Alien Day-2.jpg</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\AlienDay\Alien Day-2.jpg</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\holidays\AlienDay\Alien Day-3.jpg</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{4ae3e57e-5d9b-48af-a723-5c50f142df3c}-Alien Day-3.jpg</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\AlienDay\Alien Day-3.jpg</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\holidays\ChineseNewYear\ChineseNewYear-1.jpg</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{9edcc5df-3f96-423a-949e-2501d5a3476a}-ChineseNewYear-1.jpg</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\ChineseNewYear\ChineseNewYear-1.jpg</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\holidays\ChineseNewYear\ChineseNewYear-2.jpg</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{370aef4c-af9c-408f-9ec5-ea2c346d27da}-ChineseNewYear-2.jpg</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\ChineseNewYear\ChineseNewYear-2.jpg</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\holidays\ChineseNewYear\ChineseNewYear-3.jpg</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{38d9b05f-55c0-4950-b3fb-d2f9aaa78761}-ChineseNewYear-3.jpg</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\ChineseNewYear\ChineseNewYear-3.jpg</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\holidays\CosmonauticsDay\CosmonauticsDay-01.jpg</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{d6b717f3-da2e-42b8-a9dc-1dcaf45c7ac7}-CosmonauticsDay-01.jpg</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\CosmonauticsDay\CosmonauticsDay-01.jpg</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\holidays\CosmonauticsDay\CosmonauticsDay-02.jpg</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{4068c9e7-0cb6-4bf9-b557-56cede96ee64}-CosmonauticsDay-02.jpg</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\CosmonauticsDay\CosmonauticsDay-02.jpg</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\holidays\CosmonauticsDay\CosmonauticsDay-03.jpg</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{8e1aa6b8-36b3-4fb2-a357-381af3e0d23e}-CosmonauticsDay-03.jpg</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\CosmonauticsDay\CosmonauticsDay-03.jpg</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Logos\Holidays\AprilFools.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{79371292-627c-4f91-9ebf-85e38a456459}-AprilFools.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\AprilFools.png</DestinationFilename>
@@ -1170,6 +1317,27 @@ Click Next to continue or Cancel to exit Setup.</Value>
         <LocalFileName>..\Logos\Holidays\ScienceFiction.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{6fbcfdab-c23f-4b23-b115-38179714350b}-ScienceFiction.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\ScienceFiction.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Logos\Holidays\AlienDay.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{fca3f3d4-db50-46fb-b3ef-0e3fb9bb9c62}-AlienDay.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\AlienDay.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Logos\Holidays\ChineseNewYear.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{3cf5dbef-10ae-4dc6-be5c-30e47d4d7624}-ChineseNewYear.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\ChineseNewYear.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Logos\Holidays\CosmonauticsDay.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{b09772a9-630a-47bd-b92b-1204f699726c}-CosmonauticsDay.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\CosmonauticsDay.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
         <Param1 />
