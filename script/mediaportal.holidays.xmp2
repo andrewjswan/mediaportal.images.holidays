@@ -443,6 +443,55 @@
               <ZipFileName>Installer{CopyFile}\{e56510d8-2771-4e0b-8c78-e8e388f6dc68}-Womansday-4.jpg</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\WomensDay\Womansday-4.jpg</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\holidays\NameDay\NameDay-1.jpg</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{6a39493b-4eab-406e-92df-c9963de7fbb2}-NameDay-1.jpg</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\NameDay\NameDay-1.jpg</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\holidays\NameDay\NameDay-2.jpg</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{8ee2229f-ee35-40a2-b826-6cf78f2f1b33}-NameDay-2.jpg</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\NameDay\NameDay-2.jpg</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\holidays\NameDay\NameDay-3.jpg</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{441bac39-1d59-4aaa-be29-0a015b8c2efa}-NameDay-3.jpg</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\NameDay\NameDay-3.jpg</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\holidays\Wedding\Wedding-1.jpg</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{b4b070d5-a0a6-440b-84b9-64f17a8117d9}-Wedding-1.jpg</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\Wedding\Wedding-1.jpg</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\holidays\Wedding\Wedding-2.jpg</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{9588da67-1dba-4089-882e-14565faa3e45}-Wedding-2.jpg</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\Wedding\Wedding-2.jpg</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\holidays\Wedding\Wedding-3.jpg</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{8ee5875d-9234-4ca6-a994-50136eb4df2d}-Wedding-3.jpg</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\Wedding\Wedding-3.jpg</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\holidays\Wedding\Wedding-4.jpg</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{a00f4611-7240-4340-9294-aae0ef494acd}-Wedding-4.jpg</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\Wedding\Wedding-4.jpg</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -797,7 +846,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>7</Revision>
+      <Revision>9</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Holidays images for Medaportal skins
 
@@ -1279,6 +1328,55 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\holidays\NameDay\NameDay-1.jpg</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{6a39493b-4eab-406e-92df-c9963de7fbb2}-NameDay-1.jpg</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\NameDay\NameDay-1.jpg</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\holidays\NameDay\NameDay-2.jpg</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{8ee2229f-ee35-40a2-b826-6cf78f2f1b33}-NameDay-2.jpg</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\NameDay\NameDay-2.jpg</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\holidays\NameDay\NameDay-3.jpg</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{441bac39-1d59-4aaa-be29-0a015b8c2efa}-NameDay-3.jpg</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\NameDay\NameDay-3.jpg</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\holidays\Wedding\Wedding-1.jpg</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{b4b070d5-a0a6-440b-84b9-64f17a8117d9}-Wedding-1.jpg</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\Wedding\Wedding-1.jpg</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\holidays\Wedding\Wedding-2.jpg</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{9588da67-1dba-4089-882e-14565faa3e45}-Wedding-2.jpg</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\Wedding\Wedding-2.jpg</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\holidays\Wedding\Wedding-3.jpg</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{8ee5875d-9234-4ca6-a994-50136eb4df2d}-Wedding-3.jpg</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\Wedding\Wedding-3.jpg</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\holidays\Wedding\Wedding-4.jpg</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{a00f4611-7240-4340-9294-aae0ef494acd}-Wedding-4.jpg</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\Wedding\Wedding-4.jpg</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Logos\Holidays\AprilFools.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{79371292-627c-4f91-9ebf-85e38a456459}-AprilFools.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\AprilFools.png</DestinationFilename>
@@ -1469,7 +1567,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{a8f7010a-2647-47e8-8ae5-176d21e8c50c}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{9a336496-ceb0-4978-842f-bcf171ff935f}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
