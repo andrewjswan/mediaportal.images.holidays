@@ -805,7 +805,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
     <VersionDescription>Updates, added holidays.</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.holidays/master/build/mediaportal.holidays.mpe1</OnlineLocation>
-    <ReleaseDate>2019-02-06T13:46:50</ReleaseDate>
+    <ReleaseDate>2021-03-09T13:46:50</ReleaseDate>
     <Tags>mediaportal, holidays</Tags>
     <Location>..\build\mediaportal.holidays.mpe1</Location>
     <Params>
