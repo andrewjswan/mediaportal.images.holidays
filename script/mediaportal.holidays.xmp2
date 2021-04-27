@@ -492,6 +492,34 @@
               <ZipFileName>Installer{CopyFile}\{a00f4611-7240-4340-9294-aae0ef494acd}-Wedding-4.jpg</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\Wedding\Wedding-4.jpg</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\holidays\MediaPortal\MediaPortal-1.jpg</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{fbd3ed4d-8b81-4b6e-9a34-b9ea8fb38f25}-MediaPortal-1.jpg</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\MediaPortal\MediaPortal-1.jpg</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\holidays\MediaPortal\MediaPortal-2.jpg</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{45900634-d204-4b24-a3e1-a29d6dc78781}-MediaPortal-2.jpg</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\MediaPortal\MediaPortal-2.jpg</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\holidays\MediaPortal\MediaPortal-3.jpg</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{e19f6435-6bcb-464d-ab57-7fedd579ce33}-MediaPortal-3.jpg</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\MediaPortal\MediaPortal-3.jpg</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\holidays\MediaPortal\MediaPortal-4.jpg</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{bf4042ad-cffe-4d53-8a45-2005deb68020}-MediaPortal-4.jpg</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\MediaPortal\MediaPortal-4.jpg</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -676,6 +704,13 @@
               <ZipFileName>Installer{CopyFile}\{0805c4f4-307e-4f46-b656-7e294d5198be}-WomensDay.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\WomensDay.png</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Logos\Holidays\MediaPortal.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{d6eb10b0-e71b-49b1-b268-ecf471f9f788}-MediaPortal.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\MediaPortal.png</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -846,7 +881,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>9</Revision>
+      <Revision>11</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Holidays images for Medaportal skins
 
@@ -854,7 +889,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
     <VersionDescription>Updates, added holidays.</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.holidays/master/build/mediaportal.holidays.mpe1</OnlineLocation>
-    <ReleaseDate>2021-03-09T13:46:50</ReleaseDate>
+    <ReleaseDate>2021-04-27T13:46:50</ReleaseDate>
     <Tags>mediaportal, holidays</Tags>
     <Location>..\build\mediaportal.holidays.mpe1</Location>
     <Params>
@@ -1377,6 +1412,34 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\holidays\MediaPortal\MediaPortal-1.jpg</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{fbd3ed4d-8b81-4b6e-9a34-b9ea8fb38f25}-MediaPortal-1.jpg</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\MediaPortal\MediaPortal-1.jpg</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\holidays\MediaPortal\MediaPortal-2.jpg</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{45900634-d204-4b24-a3e1-a29d6dc78781}-MediaPortal-2.jpg</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\MediaPortal\MediaPortal-2.jpg</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\holidays\MediaPortal\MediaPortal-3.jpg</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{e19f6435-6bcb-464d-ab57-7fedd579ce33}-MediaPortal-3.jpg</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\MediaPortal\MediaPortal-3.jpg</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\holidays\MediaPortal\MediaPortal-4.jpg</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{bf4042ad-cffe-4d53-8a45-2005deb68020}-MediaPortal-4.jpg</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\MediaPortal\MediaPortal-4.jpg</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Logos\Holidays\AprilFools.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{79371292-627c-4f91-9ebf-85e38a456459}-AprilFools.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\AprilFools.png</DestinationFilename>
@@ -1549,6 +1612,13 @@ Click Next to continue or Cancel to exit Setup.</Value>
         <ZipFileName>Installer{CopyFile}\{0805c4f4-307e-4f46-b656-7e294d5198be}-WomensDay.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\WomensDay.png</DestinationFilename>
       </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Logos\Holidays\MediaPortal.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{d6eb10b0-e71b-49b1-b268-ecf471f9f788}-MediaPortal.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\MediaPortal.png</DestinationFilename>
+      </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
@@ -1567,7 +1637,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{9a336496-ceb0-4978-842f-bcf171ff935f}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{482389a1-e781-452f-a1f3-35242aa15cff}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
