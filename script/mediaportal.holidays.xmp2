@@ -1693,7 +1693,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{ba9ce1c9-6145-44e7-b016-d03077440095}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{39c01e77-f712-4bc1-b877-eb10226d2eae}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
