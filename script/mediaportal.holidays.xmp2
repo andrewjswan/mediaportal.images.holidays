@@ -520,6 +520,27 @@
               <ZipFileName>Installer{CopyFile}\{bf4042ad-cffe-4d53-8a45-2005deb68020}-MediaPortal-4.jpg</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\MediaPortal\MediaPortal-4.jpg</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\holidays\ChildrensDay\ChildrensDay-1.jpg</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{450acee8-9fd0-47df-adb4-392c136fe042}-ChildrensDay-1.jpg</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\ChildrensDay\ChildrensDay-1.jpg</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\holidays\ChildrensDay\ChildrensDay-2.jpg</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{9926c5a4-92d4-4a8a-a5b0-dd30a34a681c}-ChildrensDay-2.jpg</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\ChildrensDay\ChildrensDay-2.jpg</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\holidays\ChildrensDay\ChildrensDay-3.jpg</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{a588b55a-30d8-4b61-8c3d-ad5bcbfcdc70}-ChildrensDay-3.jpg</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\ChildrensDay\ChildrensDay-3.jpg</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -711,6 +732,13 @@
               <ZipFileName>Installer{CopyFile}\{d6eb10b0-e71b-49b1-b268-ecf471f9f788}-MediaPortal.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\MediaPortal.png</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Logos\Holidays\ChildrensDay.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{e63c0ccb-9ad3-4a0f-a5c7-1dd741ba6564}-ChildrensDay.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\ChildrensDay.png</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -881,15 +909,15 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>11</Revision>
+      <Revision>13</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Holidays images for Medaportal skins
 
 </ExtensionDescription>
-    <VersionDescription>Updates, added holidays.</VersionDescription>
+    <VersionDescription>Add Childrens Day</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.holidays/master/build/mediaportal.holidays.mpe1</OnlineLocation>
-    <ReleaseDate>2021-04-27T13:46:50</ReleaseDate>
+    <ReleaseDate>2021-06-01T13:46:50</ReleaseDate>
     <Tags>mediaportal, holidays</Tags>
     <Location>..\build\mediaportal.holidays.mpe1</Location>
     <Params>
@@ -1440,6 +1468,27 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\holidays\ChildrensDay\ChildrensDay-1.jpg</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{450acee8-9fd0-47df-adb4-392c136fe042}-ChildrensDay-1.jpg</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\ChildrensDay\ChildrensDay-1.jpg</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\holidays\ChildrensDay\ChildrensDay-2.jpg</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{9926c5a4-92d4-4a8a-a5b0-dd30a34a681c}-ChildrensDay-2.jpg</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\ChildrensDay\ChildrensDay-2.jpg</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\holidays\ChildrensDay\ChildrensDay-3.jpg</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{a588b55a-30d8-4b61-8c3d-ad5bcbfcdc70}-ChildrensDay-3.jpg</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\ChildrensDay\ChildrensDay-3.jpg</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Logos\Holidays\AprilFools.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{79371292-627c-4f91-9ebf-85e38a456459}-AprilFools.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\AprilFools.png</DestinationFilename>
@@ -1619,6 +1668,13 @@ Click Next to continue or Cancel to exit Setup.</Value>
         <ZipFileName>Installer{CopyFile}\{d6eb10b0-e71b-49b1-b268-ecf471f9f788}-MediaPortal.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\MediaPortal.png</DestinationFilename>
       </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Logos\Holidays\ChildrensDay.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{e63c0ccb-9ad3-4a0f-a5c7-1dd741ba6564}-ChildrensDay.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\ChildrensDay.png</DestinationFilename>
+      </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
@@ -1637,7 +1693,7 @@ Click Next to continue or Cancel to exit Setup.</Value>
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>pack.icon.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{482389a1-e781-452f-a1f3-35242aa15cff}-pack.icon.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{ba9ce1c9-6145-44e7-b016-d03077440095}-pack.icon.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
