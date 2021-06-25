@@ -404,20 +404,6 @@
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
-              <LocalFileName>..\holidays\Vatertag\Vatertag-1.jpg</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{2b3b5c9d-9011-4ad8-a538-249be678b5b4}-Vatertag-1.jpg</ZipFileName>
-              <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\Vatertag\Vatertag-1.jpg</DestinationFilename>
-            </FileItem>
-            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-              <Param1 />
-              <UpdateOption>OverwriteIfOlder</UpdateOption>
-              <LocalFileName>..\holidays\Vatertag\Vatertag-2.jpg</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{f881c049-dfda-47ec-8370-6f62a536cd68}-Vatertag-2.jpg</ZipFileName>
-              <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\Vatertag\Vatertag-2.jpg</DestinationFilename>
-            </FileItem>
-            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-              <Param1 />
-              <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\holidays\WomensDay\Womansday-1.jpg</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{7edc2fe8-06db-42e4-9b31-4e456da37fb7}-Womansday-1.jpg</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\WomensDay\Womansday-1.jpg</DestinationFilename>
@@ -714,13 +700,6 @@
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
               <UpdateOption>OverwriteIfOlder</UpdateOption>
-              <LocalFileName>..\Logos\Holidays\Vatertag.png</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{86530402-9ca8-4b7a-9702-7662c7eda5b2}-Vatertag.png</ZipFileName>
-              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\Vatertag.png</DestinationFilename>
-            </FileItem>
-            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-              <Param1 />
-              <UpdateOption>OverwriteIfOlder</UpdateOption>
               <LocalFileName>..\Logos\Holidays\WomensDay.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{0805c4f4-307e-4f46-b656-7e294d5198be}-WomensDay.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\WomensDay.png</DestinationFilename>
@@ -738,6 +717,13 @@
               <LocalFileName>..\Logos\Holidays\ChildrensDay.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{e63c0ccb-9ad3-4a0f-a5c7-1dd741ba6564}-ChildrensDay.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\ChildrensDay.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Logos\Holidays\FathersDay.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{37dc726a-7985-4460-8383-246198f814f3}-FathersDay.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\FathersDay.png</DestinationFilename>
             </FileItem>
           </Items>
         </Files>
@@ -909,15 +895,15 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>13</Revision>
+      <Revision>15</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Holidays images for Medaportal skins
 
 </ExtensionDescription>
-    <VersionDescription>Add Childrens Day</VersionDescription>
+    <VersionDescription>Cosmetic</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.holidays/master/build/mediaportal.holidays.mpe1</OnlineLocation>
-    <ReleaseDate>2021-06-01T13:46:50</ReleaseDate>
+    <ReleaseDate>2021-06-25T13:46:50</ReleaseDate>
     <Tags>mediaportal, holidays</Tags>
     <Location>..\build\mediaportal.holidays.mpe1</Location>
     <Params>
@@ -1349,20 +1335,6 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
-        <LocalFileName>..\holidays\Vatertag\Vatertag-1.jpg</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{2b3b5c9d-9011-4ad8-a538-249be678b5b4}-Vatertag-1.jpg</ZipFileName>
-        <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\Vatertag\Vatertag-1.jpg</DestinationFilename>
-      </FileItem>
-      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-        <Param1 />
-        <UpdateOption>OverwriteIfOlder</UpdateOption>
-        <LocalFileName>..\holidays\Vatertag\Vatertag-2.jpg</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{f881c049-dfda-47ec-8370-6f62a536cd68}-Vatertag-2.jpg</ZipFileName>
-        <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\Vatertag\Vatertag-2.jpg</DestinationFilename>
-      </FileItem>
-      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-        <Param1 />
-        <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\holidays\WomensDay\Womansday-1.jpg</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{7edc2fe8-06db-42e4-9b31-4e456da37fb7}-Womansday-1.jpg</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\WomensDay\Womansday-1.jpg</DestinationFilename>
@@ -1650,13 +1622,6 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
-        <LocalFileName>..\Logos\Holidays\Vatertag.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{86530402-9ca8-4b7a-9702-7662c7eda5b2}-Vatertag.png</ZipFileName>
-        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\Vatertag.png</DestinationFilename>
-      </FileItem>
-      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-        <Param1 />
-        <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Logos\Holidays\WomensDay.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{0805c4f4-307e-4f46-b656-7e294d5198be}-WomensDay.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\WomensDay.png</DestinationFilename>
@@ -1674,6 +1639,13 @@ Click Next to continue or Cancel to exit Setup.</Value>
         <LocalFileName>..\Logos\Holidays\ChildrensDay.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{e63c0ccb-9ad3-4a0f-a5c7-1dd741ba6564}-ChildrensDay.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\ChildrensDay.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Logos\Holidays\FathersDay.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{37dc726a-7985-4460-8383-246198f814f3}-FathersDay.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\FathersDay.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
         <Param1 />
