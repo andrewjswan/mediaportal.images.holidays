@@ -527,6 +527,27 @@
               <ZipFileName>Installer{CopyFile}\{a588b55a-30d8-4b61-8c3d-ad5bcbfcdc70}-ChildrensDay-3.jpg</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\ChildrensDay\ChildrensDay-3.jpg</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\holidays\Ukraine\ukraine-1.jpg</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{17576c4f-cc14-4fa7-87bc-ccfeae91e5e9}-ukraine-1.jpg</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\Ukraine\ukraine-1.jpg</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\holidays\Ukraine\ukraine-2.jpg</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{f511c8e8-4d3b-4c4d-81ff-04722272db5a}-ukraine-2.jpg</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\Ukraine\ukraine-2.jpg</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\holidays\Ukraine\ukraine-3.jpg</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{005229b9-d296-4056-8193-485f7e8d5ec8}-ukraine-3.jpg</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\Ukraine\ukraine-3.jpg</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -725,6 +746,13 @@
               <ZipFileName>Installer{CopyFile}\{37dc726a-7985-4460-8383-246198f814f3}-FathersDay.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\FathersDay.png</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Logos\Holidays\Ukraine.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{45c0c9d3-7bcd-4ff3-b390-a3cd1cf2d5d0}-Ukraine.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\Ukraine.png</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -895,15 +923,15 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>15</Revision>
+      <Revision>17</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Holidays images for Medaportal skins
 
 </ExtensionDescription>
-    <VersionDescription>Cosmetic</VersionDescription>
+    <VersionDescription>Add Holiday Images</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://raw.githubusercontent.com/andrewjswan/mediaportal.images.holidays/master/build/mediaportal.holidays.mpe1</OnlineLocation>
-    <ReleaseDate>2021-06-25T13:46:50</ReleaseDate>
+    <ReleaseDate>2022-08-23T13:46:50</ReleaseDate>
     <Tags>mediaportal, holidays</Tags>
     <Location>..\build\mediaportal.holidays.mpe1</Location>
     <Params>
@@ -1461,6 +1489,27 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\holidays\Ukraine\ukraine-1.jpg</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{17576c4f-cc14-4fa7-87bc-ccfeae91e5e9}-ukraine-1.jpg</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\Ukraine\ukraine-1.jpg</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\holidays\Ukraine\ukraine-2.jpg</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{f511c8e8-4d3b-4c4d-81ff-04722272db5a}-ukraine-2.jpg</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\Ukraine\ukraine-2.jpg</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\holidays\Ukraine\ukraine-3.jpg</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{005229b9-d296-4056-8193-485f7e8d5ec8}-ukraine-3.jpg</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\Ukraine\ukraine-3.jpg</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Logos\Holidays\AprilFools.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{79371292-627c-4f91-9ebf-85e38a456459}-AprilFools.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\AprilFools.png</DestinationFilename>
@@ -1646,6 +1695,13 @@ Click Next to continue or Cancel to exit Setup.</Value>
         <LocalFileName>..\Logos\Holidays\FathersDay.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{37dc726a-7985-4460-8383-246198f814f3}-FathersDay.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\FathersDay.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Logos\Holidays\Ukraine.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{45c0c9d3-7bcd-4ff3-b390-a3cd1cf2d5d0}-Ukraine.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\Ukraine.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true">
         <Param1 />
