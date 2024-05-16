@@ -548,6 +548,62 @@
               <ZipFileName>Installer{CopyFile}\{005229b9-d296-4056-8193-485f7e8d5ec8}-ukraine-3.jpg</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\Ukraine\ukraine-3.jpg</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\holidays\Anzac\Anzac Day-1.jpg</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{f3dd1944-a0ba-40e8-8fc8-964b6e429930}-Anzac Day-1.jpg</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\Anzac\Anzac Day-1.jpg</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\holidays\AustraliaDay\Australia Day-1.jpg</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{3b89e927-9d60-427e-943e-82d5132542c0}-Australia Day-1.jpg</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\AustraliaDay\Australia Day-1.jpg</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\holidays\KingsBirthday\Kings Birthday-1.jpg</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{af058423-4a73-4670-b045-5df526a43b8d}-Kings Birthday-1.jpg</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\KingsBirthday\Kings Birthday-1.jpg</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\holidays\KingsBirthday\Kings Birthday-2.jpg</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{d3e689f4-ecae-476f-b4e2-697465eaeb54}-Kings Birthday-2.jpg</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\KingsBirthday\Kings Birthday-2.jpg</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\holidays\KingsBirthday\Kings Birthday-3.jpg</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{a5889da1-1b40-4fed-a914-496d6ee8ea39}-Kings Birthday-3.jpg</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\KingsBirthday\Kings Birthday-3.jpg</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\holidays\MelbourneCup\Melbourne Cup-1.jpg</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{84afaae0-e116-4f0d-80b3-bd80fe17a666}-Melbourne Cup-1.jpg</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\MelbourneCup\Melbourne Cup-1.jpg</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\holidays\MelbourneCup\Melbourne Cup-2.jpg</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{b25a4bc9-48ba-4c8a-b963-5d84bf006d39}-Melbourne Cup-2.jpg</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\MelbourneCup\Melbourne Cup-2.jpg</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\holidays\ShowDay\Show Day-1.jpg</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{0d4836bf-6c8d-4014-b36b-ccb2031d2123}-Show Day-1.jpg</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\ShowDay\Show Day-1.jpg</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -753,6 +809,41 @@
               <ZipFileName>Installer{CopyFile}\{45c0c9d3-7bcd-4ff3-b390-a3cd1cf2d5d0}-Ukraine.png</ZipFileName>
               <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\Ukraine.png</DestinationFilename>
             </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Logos\Holidays\Anzac.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{e7dff15a-5379-4b8a-b463-09febe858a19}-Anzac.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\Anzac.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Logos\Holidays\AustraliaDay.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{1af7aaf9-9996-4856-8a78-907832846f66}-AustraliaDay.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\AustraliaDay.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Logos\Holidays\KingsBirthday.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{4f9381e6-f516-4106-85a3-2ff003331bfa}-KingsBirthday.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\KingsBirthday.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Logos\Holidays\MelbourneCup.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{bb7d1211-e2bd-478d-801c-51a443a77feb}-MelbourneCup.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\MelbourneCup.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+              <Param1 />
+              <UpdateOption>OverwriteIfOlder</UpdateOption>
+              <LocalFileName>..\Logos\Holidays\ShowDay.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{ba04cc09-6cfd-4186-af0f-175556e40e1d}-ShowDay.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\ShowDay.png</DestinationFilename>
+            </FileItem>
           </Items>
         </Files>
       </GroupItem>
@@ -924,16 +1015,15 @@ Click Next to continue or Cancel to exit Setup.</Value>
       <Major>1</Major>
       <Minor>0</Minor>
       <Build>0</Build>
-      <Revision>17</Revision>
+      <Revision>19</Revision>
     </Version>
     <ExtensionDescription>FanartHandler Holidays images for Medaportal skins
 
 </ExtensionDescription>
-    <VersionDescription>Add Holiday Images
-Migrate to GithubActions</VersionDescription>
+    <VersionDescription>Added new images for Australian holidays</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
     <OnlineLocation>https://github.com/andrewjswan/mediaportal.images.holidays/releases/download/v[Version]/mediaportal.holidays.mpe1</OnlineLocation>
-    <ReleaseDate>2024-03-21T13:46:50</ReleaseDate>
+    <ReleaseDate>2024-05-16T13:46:50</ReleaseDate>
     <Tags>mediaportal, holidays, images</Tags>
     <PlatformCompatibility>AnyCPU</PlatformCompatibility>
     <Location>..\build\mediaportal.holidays.mpe1</Location>
@@ -1513,6 +1603,62 @@ Migrate to GithubActions</VersionDescription>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\holidays\Anzac\Anzac Day-1.jpg</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{f3dd1944-a0ba-40e8-8fc8-964b6e429930}-Anzac Day-1.jpg</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\Anzac\Anzac Day-1.jpg</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\holidays\AustraliaDay\Australia Day-1.jpg</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{3b89e927-9d60-427e-943e-82d5132542c0}-Australia Day-1.jpg</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\AustraliaDay\Australia Day-1.jpg</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\holidays\KingsBirthday\Kings Birthday-1.jpg</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{af058423-4a73-4670-b045-5df526a43b8d}-Kings Birthday-1.jpg</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\KingsBirthday\Kings Birthday-1.jpg</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\holidays\KingsBirthday\Kings Birthday-2.jpg</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{d3e689f4-ecae-476f-b4e2-697465eaeb54}-Kings Birthday-2.jpg</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\KingsBirthday\Kings Birthday-2.jpg</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\holidays\KingsBirthday\Kings Birthday-3.jpg</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{a5889da1-1b40-4fed-a914-496d6ee8ea39}-Kings Birthday-3.jpg</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\KingsBirthday\Kings Birthday-3.jpg</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\holidays\MelbourneCup\Melbourne Cup-1.jpg</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{84afaae0-e116-4f0d-80b3-bd80fe17a666}-Melbourne Cup-1.jpg</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\MelbourneCup\Melbourne Cup-1.jpg</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\holidays\MelbourneCup\Melbourne Cup-2.jpg</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{b25a4bc9-48ba-4c8a-b963-5d84bf006d39}-Melbourne Cup-2.jpg</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\MelbourneCup\Melbourne Cup-2.jpg</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\holidays\ShowDay\Show Day-1.jpg</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{0d4836bf-6c8d-4014-b36b-ccb2031d2123}-Show Day-1.jpg</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\UserDef\holidays\ShowDay\Show Day-1.jpg</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>..\Logos\Holidays\AprilFools.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{79371292-627c-4f91-9ebf-85e38a456459}-AprilFools.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\AprilFools.png</DestinationFilename>
@@ -1705,6 +1851,41 @@ Migrate to GithubActions</VersionDescription>
         <LocalFileName>..\Logos\Holidays\Ukraine.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{45c0c9d3-7bcd-4ff3-b390-a3cd1cf2d5d0}-Ukraine.png</ZipFileName>
         <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\Ukraine.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Logos\Holidays\Anzac.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{e7dff15a-5379-4b8a-b463-09febe858a19}-Anzac.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\Anzac.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Logos\Holidays\AustraliaDay.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{1af7aaf9-9996-4856-8a78-907832846f66}-AustraliaDay.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\AustraliaDay.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Logos\Holidays\KingsBirthday.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{4f9381e6-f516-4106-85a3-2ff003331bfa}-KingsBirthday.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\KingsBirthday.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Logos\Holidays\MelbourneCup.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{bb7d1211-e2bd-478d-801c-51a443a77feb}-MelbourneCup.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\MelbourneCup.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false" Condition="None">
+        <Param1 />
+        <UpdateOption>OverwriteIfOlder</UpdateOption>
+        <LocalFileName>..\Logos\Holidays\ShowDay.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{ba04cc09-6cfd-4186-af0f-175556e40e1d}-ShowDay.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\Skin FanArt\Media\Logos\Holidays\ShowDay.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="true" Condition="None">
         <Param1 />
